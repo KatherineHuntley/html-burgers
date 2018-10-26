@@ -1,9 +1,10 @@
 .bun-top {
   height: 70px;
-  width: 60%;
+  width: 65%;
   background: #e5b05a;
   border-radius: 100px 100px 20px 20px;
   border-bottom: solid 10px rgba(0,0,0,.1);
+ 
 }
 
 .cheese {
@@ -11,6 +12,7 @@
   width: 65%;
   background: #f2c120;
   border-bottom: solid 2px rgba(0,0,0,.1);
+ 
 }
 
 .tomato {
@@ -64,4 +66,13 @@
   width: 80%;
   background: #656565;
   border-radius: 20px 20px 200px 200px;
+}
+
+.cookie {
+
+  height: 30px;
+  width: 70%;
+  background: #D4AA7D;
+  border-radius: 100px 100px 200px 200px;
+  border-top:  solid 20px #D4AA7D(0,0,0,.1)
 }
